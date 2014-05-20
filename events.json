@@ -1,635 +1,639 @@
 {
+  "events": [
+    {
+    "event": {
+      "id": 188155,
+      "title": "Amy Sherald: Paintings",
+      "url": "http://www.rflewismuseum.org/exhibitions/special",
+      "updated_at": "2013-10-08T09:25:32Z",
+      "created_at": "2013-08-26T06:26:44Z",
+      "facebook_id": null,
+      "first_date": "2013-09-14",
+      "last_date": "2013-12-29",
+      "hashtag": "",
+      "urlname": "amy_sherald_paintings",
+      "user_id": 52182,
+      "directions": "",
+      "allows_reviews": true,
+      "location": "Reginald F. Lewis of Maryland African American History and C...",
+      "room_number": "",
+      "location_name": "Reginald F. Lewis of Maryland African American History and C...",
+      "created_by": null,
+      "updated_by": null,
+      "city_id": 1,
+      "neighborhood_id": 58,
+      "school_id": 55,
+      "campus_id": null,
+      "recurring": true,
+      "free": true,
+      "private": false,
+      "verified": true,
+      "rejected": false,
+      "sponsored": false,
+      "venue_id": null,
+      "ticket_url": "",
+      "ticket_cost": "",
+      "keywords": [
+
+      ],
+      "tags": [
+
+      ],
+      "description_text": "Known for her life-sized fantastical portraits of African Am...",
+      "photo_id": 76525,
+      "detail_views": 52,
+      "address": "830 E. Pratt St. Baltimore, MD 21202",
+      "description": "<p class=\"description\">Known for her life-sized fantastical ...",
+      "featured": true,
+      "geo": {
+        "latitude": 39.2873,
+        "longitude": -76.6038,
+        "street": "830 East Pratt Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "country": "US",
+        "zip": "21202"
+      },
+      "filters": {
+        "event_types": [
+          {
+            "name": "Arts & Culture",
+            "id": 20196
+          }
+        ]
+      },
+      "custom_fields": {
+      },
+      "localist_url": "http://events.wtmd.org/event/amy_sherald_paintings",
+      "photo_url": "http://afterclass.uiowa.edu/assets/Uploads/1798919-537607773004320-1447594598-o.jpg",
+      "venue_url": null,
+      "event_instances": [
+        {
+          "event_instance": {
+            "id": 452831,
+            "ranking": 0,
+            "event_id": 188155,
+            "start": "2013-09-14T10:00:00-04:00",
+            "end": "2013-09-14T17:00:00-04:00",
+            "all_day": false
+          }
+        }
+      ]
+    },
   "event": {
-    "id": 188155,
-    "title": "Amy Sherald: Paintings",
-    "url": "http://www.rflewismuseum.org/exhibitions/special",
-    "updated_at": "2013-10-08T09:25:32Z",
-    "created_at": "2013-08-26T06:26:44Z",
-    "facebook_id": null,
-    "first_date": "2013-09-14",
-    "last_date": "2013-12-29",
-    "hashtag": "",
-    "urlname": "amy_sherald_paintings",
-    "user_id": 52182,
-    "directions": "",
-    "allows_reviews": true,
-    "location": "Reginald F. Lewis of Maryland African American History and C...",
-    "room_number": "",
-    "location_name": "Reginald F. Lewis of Maryland African American History and C...",
-    "created_by": null,
-    "updated_by": null,
-    "city_id": 1,
-    "neighborhood_id": 58,
-    "school_id": 55,
-    "campus_id": null,
-    "recurring": true,
-    "free": true,
-    "private": false,
-    "verified": true,
-    "rejected": false,
-    "sponsored": false,
-    "venue_id": null,
-    "ticket_url": "",
-    "ticket_cost": "",
-    "keywords": [
+      "id": 188156,
+      "title": "Dustin Quam's Event",
+      "url": "http:/dquam.net",
+      "updated_at": "2013-10-08T09:25:32Z",
+      "created_at": "2013-08-26T06:26:44Z",
+      "facebook_id": null,
+      "first_date": "2014-06-07",
+      "last_date": "2014-06-07",
+      "hashtag": "",
+      "urlname": "dustin_event",
+      "user_id": 52182,
+      "directions": "",
+      "allows_reviews": true,
+      "location": "Marketing and Design Offices",
+      "room_number": "286 IMU",
+      "location_name": "Iowa Memorial Union",
+      "created_by": null,
+      "updated_by": null,
+      "city_id": 1,
+      "neighborhood_id": 58,
+      "school_id": 55,
+      "campus_id": null,
+      "recurring": true,
+      "free": true,
+      "private": false,
+      "verified": true,
+      "rejected": false,
+      "sponsored": false,
+      "venue_id": null,
+      "ticket_url": "",
+      "ticket_cost": "",
+      "keywords": [
 
-    ],
-    "tags": [
+      ],
+      "tags": [
 
-    ],
-    "description_text": "Known for her life-sized fantastical portraits of African Am...",
-    "photo_id": 76525,
-    "detail_views": 52,
-    "address": "830 E. Pratt St. Baltimore, MD 21202",
-    "description": "<p class=\"description\">Known for her life-sized fantastical ...",
-    "featured": true,
-    "geo": {
-      "latitude": 39.2873,
-      "longitude": -76.6038,
-      "street": "830 East Pratt Street",
-      "city": "Baltimore",
-      "state": "MD",
-      "country": "US",
-      "zip": "21202"
-    },
-    "filters": {
-      "event_types": [
+      ],
+      "description_text": "Dustin's finally holding an event at Student Life...",
+      "photo_id": 76525,
+      "detail_views": 52,
+      "address": "830 E. Pratt St. Baltimore, MD 21202",
+      "description": "<p class=\"description\">Known for her life-sized fantastical ...",
+      "featured": true,
+      "geo": {
+        "latitude": 39.2873,
+        "longitude": -76.6038,
+        "street": "830 East Pratt Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "country": "US",
+        "zip": "21202"
+      },
+      "filters": {
+        "event_types": [
+          {
+            "name": "Arts & Culture",
+            "id": 20196
+          }
+        ]
+      },
+      "custom_fields": {
+      },
+      "localist_url": "http://events.wtmd.org/event/amy_sherald_paintings",
+      "photo_url": "http://afterclass.uiowa.edu/assets/Uploads/1798919-537607773004320-1447594598-o.jpg",
+      "venue_url": null,
+      "event_instances": [
         {
-          "name": "Arts & Culture",
-          "id": 20196
+          "event_instance": {
+            "id": 452831,
+            "ranking": 0,
+            "event_id": 188155,
+            "start": "2014-06-07T10:00:00-04:00",
+            "end": "2014-06-07T17:00:00-04:00",
+            "all_day": false
+          }
         }
       ]
     },
-    "custom_fields": {
-    },
-    "localist_url": "http://events.wtmd.org/event/amy_sherald_paintings",
-    "photo_url": "http://afterclass.uiowa.edu/assets/Uploads/1798919-537607773004320-1447594598-o.jpg",
-    "venue_url": null,
-    "event_instances": [
-      {
-        "event_instance": {
-          "id": 452831,
-          "ranking": 0,
-          "event_id": 188155,
-          "start": "2013-09-14T10:00:00-04:00",
-          "end": "2013-09-14T17:00:00-04:00",
-          "all_day": false
-        }
-      }
-    ]
-  },
-"event": {
-    "id": 188156,
-    "title": "Dustin Quam's Event",
-    "url": "http:/dquam.net",
-    "updated_at": "2013-10-08T09:25:32Z",
-    "created_at": "2013-08-26T06:26:44Z",
-    "facebook_id": null,
-    "first_date": "2014-06-07",
-    "last_date": "2014-06-07",
-    "hashtag": "",
-    "urlname": "dustin_event",
-    "user_id": 52182,
-    "directions": "",
-    "allows_reviews": true,
-    "location": "Marketing and Design Offices",
-    "room_number": "286 IMU",
-    "location_name": "Iowa Memorial Union",
-    "created_by": null,
-    "updated_by": null,
-    "city_id": 1,
-    "neighborhood_id": 58,
-    "school_id": 55,
-    "campus_id": null,
-    "recurring": true,
-    "free": true,
-    "private": false,
-    "verified": true,
-    "rejected": false,
-    "sponsored": false,
-    "venue_id": null,
-    "ticket_url": "",
-    "ticket_cost": "",
-    "keywords": [
+    "event": {
+      "id": 188157,
+      "title": "Root Beer Floats!",
+      "url": "http://apple.com",
+      "updated_at": "2013-10-08T09:25:32Z",
+      "created_at": "2013-08-26T06:26:44Z",
+      "facebook_id": null,
+      "first_date": "2014-06-24",
+      "last_date": "2013-06-24",
+      "hashtag": "",
+      "urlname": "root_beer",
+      "user_id": 52182,
+      "directions": "",
+      "allows_reviews": true,
+      "location": "Pentacrest",
+      "room_number": "",
+      "location_name": "Pentacrest",
+      "created_by": null,
+      "updated_by": null,
+      "city_id": 1,
+      "neighborhood_id": 58,
+      "school_id": 55,
+      "campus_id": null,
+      "recurring": true,
+      "free": true,
+      "private": false,
+      "verified": true,
+      "rejected": false,
+      "sponsored": false,
+      "venue_id": null,
+      "ticket_url": "",
+      "ticket_cost": "",
+      "keywords": [
 
-    ],
-    "tags": [
+      ],
+      "tags": [
 
-    ],
-    "description_text": "Dustin's finally holding an event at Student Life...",
-    "photo_id": 76525,
-    "detail_views": 52,
-    "address": "830 E. Pratt St. Baltimore, MD 21202",
-    "description": "<p class=\"description\">Known for her life-sized fantastical ...",
-    "featured": true,
-    "geo": {
-      "latitude": 39.2873,
-      "longitude": -76.6038,
-      "street": "830 East Pratt Street",
-      "city": "Baltimore",
-      "state": "MD",
-      "country": "US",
-      "zip": "21202"
-    },
-    "filters": {
-      "event_types": [
+      ],
+      "description_text": "It's a hot day today. Cool off with a Root Beer...",
+      "photo_id": 76525,
+      "detail_views": 52,
+      "address": "830 E. Pratt St. Baltimore, MD 21202",
+      "description": "It's a hot day today. Cool off with a Root Beer...",
+      "featured": true,
+      "geo": {
+        "latitude": 39.2873,
+        "longitude": -76.6038,
+        "street": "830 East Pratt Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "country": "US",
+        "zip": "21202"
+      },
+      "filters": {
+        "event_types": [
+          {
+            "name": "Fun",
+            "id": 20196
+          }
+        ]
+      },
+      "custom_fields": {
+      },
+      "localist_url": "http://events.wtmd.org/event/amy_sherald_paintings",
+      "photo_url": "http://afterclass.uiowa.edu/assets/Uploads/1798919-537607773004320-1447594598-o.jpg",
+      "venue_url": null,
+      "event_instances": [
         {
-          "name": "Arts & Culture",
-          "id": 20196
+          "event_instance": {
+            "id": 452831,
+            "ranking": 0,
+            "event_id": 188155,
+            "start": "2013-09-14T10:00:00-04:00",
+            "end": "2013-09-14T17:00:00-04:00",
+            "all_day": false
+          }
         }
       ]
     },
-    "custom_fields": {
-    },
-    "localist_url": "http://events.wtmd.org/event/amy_sherald_paintings",
-    "photo_url": "http://afterclass.uiowa.edu/assets/Uploads/1798919-537607773004320-1447594598-o.jpg",
-    "venue_url": null,
-    "event_instances": [
-      {
-        "event_instance": {
-          "id": 452831,
-          "ranking": 0,
-          "event_id": 188155,
-          "start": "2014-06-07T10:00:00-04:00",
-          "end": "2014-06-07T17:00:00-04:00",
-          "all_day": false
-        }
-      }
-    ]
-  },
-  "event": {
-    "id": 188157,
-    "title": "Root Beer Floats!",
-    "url": "http://apple.com",
-    "updated_at": "2013-10-08T09:25:32Z",
-    "created_at": "2013-08-26T06:26:44Z",
-    "facebook_id": null,
-    "first_date": "2014-06-24",
-    "last_date": "2013-06-24",
-    "hashtag": "",
-    "urlname": "root_beer",
-    "user_id": 52182,
-    "directions": "",
-    "allows_reviews": true,
-    "location": "Pentacrest",
-    "room_number": "",
-    "location_name": "Pentacrest",
-    "created_by": null,
-    "updated_by": null,
-    "city_id": 1,
-    "neighborhood_id": 58,
-    "school_id": 55,
-    "campus_id": null,
-    "recurring": true,
-    "free": true,
-    "private": false,
-    "verified": true,
-    "rejected": false,
-    "sponsored": false,
-    "venue_id": null,
-    "ticket_url": "",
-    "ticket_cost": "",
-    "keywords": [
+    "event": {
+      "id": 188158,
+      "title": "Fourth of July Fireworks!",
+      "url": "http://www.uiowa.edu/",
+      "updated_at": "2013-10-08T09:25:32Z",
+      "created_at": "2013-08-26T06:26:44Z",
+      "facebook_id": null,
+      "first_date": "2014-07-04",
+      "last_date": "2014-07-04",
+      "hashtag": "",
+      "urlname": "july-fourth",
+      "user_id": 52182,
+      "directions": "",
+      "allows_reviews": true,
+      "location": "Pentacrest",
+      "room_number": "",
+      "location_name": "Pentacrest",
+      "created_by": null,
+      "updated_by": null,
+      "city_id": 1,
+      "neighborhood_id": 58,
+      "school_id": 55,
+      "campus_id": null,
+      "recurring": true,
+      "free": true,
+      "private": false,
+      "verified": true,
+      "rejected": false,
+      "sponsored": false,
+      "venue_id": null,
+      "ticket_url": "",
+      "ticket_cost": "",
+      "keywords": [
 
-    ],
-    "tags": [
+      ],
+      "tags": [
 
-    ],
-    "description_text": "It's a hot day today. Cool off with a Root Beer...",
-    "photo_id": 76525,
-    "detail_views": 52,
-    "address": "830 E. Pratt St. Baltimore, MD 21202",
-    "description": "It's a hot day today. Cool off with a Root Beer...",
-    "featured": true,
-    "geo": {
-      "latitude": 39.2873,
-      "longitude": -76.6038,
-      "street": "830 East Pratt Street",
-      "city": "Baltimore",
-      "state": "MD",
-      "country": "US",
-      "zip": "21202"
-    },
-    "filters": {
-      "event_types": [
+      ],
+      "description_text": "Come see some amazing stuff! We're shootin off fireworks!",
+      "photo_id": 76525,
+      "detail_views": 52,
+      "address": "830 E. Pratt St. Baltimore, MD 21202",
+      "description": "<p class=\"description\">Known for her life-sized fantastical ...",
+      "featured": true,
+      "geo": {
+        "latitude": 39.2873,
+        "longitude": -76.6038,
+        "street": "830 East Pratt Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "country": "US",
+        "zip": "21202"
+      },
+      "filters": {
+        "event_types": [
+          {
+            "name": "Arts & Culture",
+            "id": 20196
+          }
+        ]
+      },
+      "custom_fields": {
+      },
+      "localist_url": "http://events.wtmd.org/event/amy_sherald_paintings",
+      "photo_url": "http://afterclass.uiowa.edu/assets/Uploads/1798919-537607773004320-1447594598-o.jpg",
+      "venue_url": null,
+      "event_instances": [
         {
-          "name": "Fun",
-          "id": 20196
+          "event_instance": {
+            "id": 452831,
+            "ranking": 0,
+            "event_id": 188155,
+            "start": "2013-09-14T10:00:00-04:00",
+            "end": "2013-09-14T17:00:00-04:00",
+            "all_day": false
+          }
         }
       ]
     },
-    "custom_fields": {
-    },
-    "localist_url": "http://events.wtmd.org/event/amy_sherald_paintings",
-    "photo_url": "http://afterclass.uiowa.edu/assets/Uploads/1798919-537607773004320-1447594598-o.jpg",
-    "venue_url": null,
-    "event_instances": [
-      {
-        "event_instance": {
-          "id": 452831,
-          "ranking": 0,
-          "event_id": 188155,
-          "start": "2013-09-14T10:00:00-04:00",
-          "end": "2013-09-14T17:00:00-04:00",
-          "all_day": false
-        }
-      }
-    ]
-  },
-  "event": {
-    "id": 188158,
-    "title": "Fourth of July Fireworks!",
-    "url": "http://www.uiowa.edu/",
-    "updated_at": "2013-10-08T09:25:32Z",
-    "created_at": "2013-08-26T06:26:44Z",
-    "facebook_id": null,
-    "first_date": "2014-07-04",
-    "last_date": "2014-07-04",
-    "hashtag": "",
-    "urlname": "july-fourth",
-    "user_id": 52182,
-    "directions": "",
-    "allows_reviews": true,
-    "location": "Pentacrest",
-    "room_number": "",
-    "location_name": "Pentacrest",
-    "created_by": null,
-    "updated_by": null,
-    "city_id": 1,
-    "neighborhood_id": 58,
-    "school_id": 55,
-    "campus_id": null,
-    "recurring": true,
-    "free": true,
-    "private": false,
-    "verified": true,
-    "rejected": false,
-    "sponsored": false,
-    "venue_id": null,
-    "ticket_url": "",
-    "ticket_cost": "",
-    "keywords": [
+    "event": {
+      "id": 188159,
+      "title": "Another event",
+      "url": "http://www.rflewismuseum.org/exhibitions/special",
+      "updated_at": "2013-10-08T09:25:32Z",
+      "created_at": "2013-08-26T06:26:44Z",
+      "facebook_id": null,
+      "first_date": "2013-09-14",
+      "last_date": "2013-12-29",
+      "hashtag": "",
+      "urlname": "amy_sherald_paintings",
+      "user_id": 52182,
+      "directions": "",
+      "allows_reviews": true,
+      "location": "Reginald F. Lewis of Maryland African American History and C...",
+      "room_number": "",
+      "location_name": "Reginald F. Lewis of Maryland African American History and C...",
+      "created_by": null,
+      "updated_by": null,
+      "city_id": 1,
+      "neighborhood_id": 58,
+      "school_id": 55,
+      "campus_id": null,
+      "recurring": true,
+      "free": true,
+      "private": false,
+      "verified": true,
+      "rejected": false,
+      "sponsored": false,
+      "venue_id": null,
+      "ticket_url": "",
+      "ticket_cost": "",
+      "keywords": [
 
-    ],
-    "tags": [
+      ],
+      "tags": [
 
-    ],
-    "description_text": "Come see some amazing stuff! We're shootin off fireworks!",
-    "photo_id": 76525,
-    "detail_views": 52,
-    "address": "830 E. Pratt St. Baltimore, MD 21202",
-    "description": "<p class=\"description\">Known for her life-sized fantastical ...",
-    "featured": true,
-    "geo": {
-      "latitude": 39.2873,
-      "longitude": -76.6038,
-      "street": "830 East Pratt Street",
-      "city": "Baltimore",
-      "state": "MD",
-      "country": "US",
-      "zip": "21202"
-    },
-    "filters": {
-      "event_types": [
+      ],
+      "description_text": "Known for her life-sized fantastical portraits of African Am...",
+      "photo_id": 76525,
+      "detail_views": 52,
+      "address": "830 E. Pratt St. Baltimore, MD 21202",
+      "description": "<p class=\"description\">Known for her life-sized fantastical ...",
+      "featured": true,
+      "geo": {
+        "latitude": 39.2873,
+        "longitude": -76.6038,
+        "street": "830 East Pratt Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "country": "US",
+        "zip": "21202"
+      },
+      "filters": {
+        "event_types": [
+          {
+            "name": "Arts & Culture",
+            "id": 20196
+          }
+        ]
+      },
+      "custom_fields": {
+      },
+      "localist_url": "http://events.wtmd.org/event/amy_sherald_paintings",
+      "photo_url": "http://afterclass.uiowa.edu/assets/Uploads/1798919-537607773004320-1447594598-o.jpg",
+      "venue_url": null,
+      "event_instances": [
         {
-          "name": "Arts & Culture",
-          "id": 20196
+          "event_instance": {
+            "id": 452831,
+            "ranking": 0,
+            "event_id": 188155,
+            "start": "2013-09-14T10:00:00-04:00",
+            "end": "2013-09-14T17:00:00-04:00",
+            "all_day": false
+          }
         }
       ]
     },
-    "custom_fields": {
-    },
-    "localist_url": "http://events.wtmd.org/event/amy_sherald_paintings",
-    "photo_url": "http://afterclass.uiowa.edu/assets/Uploads/1798919-537607773004320-1447594598-o.jpg",
-    "venue_url": null,
-    "event_instances": [
-      {
-        "event_instance": {
-          "id": 452831,
-          "ranking": 0,
-          "event_id": 188155,
-          "start": "2013-09-14T10:00:00-04:00",
-          "end": "2013-09-14T17:00:00-04:00",
-          "all_day": false
-        }
-      }
-    ]
-  },
-  "event": {
-    "id": 188159,
-    "title": "Another event",
-    "url": "http://www.rflewismuseum.org/exhibitions/special",
-    "updated_at": "2013-10-08T09:25:32Z",
-    "created_at": "2013-08-26T06:26:44Z",
-    "facebook_id": null,
-    "first_date": "2013-09-14",
-    "last_date": "2013-12-29",
-    "hashtag": "",
-    "urlname": "amy_sherald_paintings",
-    "user_id": 52182,
-    "directions": "",
-    "allows_reviews": true,
-    "location": "Reginald F. Lewis of Maryland African American History and C...",
-    "room_number": "",
-    "location_name": "Reginald F. Lewis of Maryland African American History and C...",
-    "created_by": null,
-    "updated_by": null,
-    "city_id": 1,
-    "neighborhood_id": 58,
-    "school_id": 55,
-    "campus_id": null,
-    "recurring": true,
-    "free": true,
-    "private": false,
-    "verified": true,
-    "rejected": false,
-    "sponsored": false,
-    "venue_id": null,
-    "ticket_url": "",
-    "ticket_cost": "",
-    "keywords": [
+    "event": {
+      "id": 188160,
+      "title": "Jumprope contest",
+      "url": "http://www.rflewismuseum.org/exhibitions/special",
+      "updated_at": "2013-10-08T09:25:32Z",
+      "created_at": "2013-08-26T06:26:44Z",
+      "facebook_id": null,
+      "first_date": "2013-09-14",
+      "last_date": "2013-12-29",
+      "hashtag": "",
+      "urlname": "amy_sherald_paintings",
+      "user_id": 52182,
+      "directions": "",
+      "allows_reviews": true,
+      "location": "Reginald F. Lewis of Maryland African American History and C...",
+      "room_number": "",
+      "location_name": "Reginald F. Lewis of Maryland African American History and C...",
+      "created_by": null,
+      "updated_by": null,
+      "city_id": 1,
+      "neighborhood_id": 58,
+      "school_id": 55,
+      "campus_id": null,
+      "recurring": true,
+      "free": true,
+      "private": false,
+      "verified": true,
+      "rejected": false,
+      "sponsored": false,
+      "venue_id": null,
+      "ticket_url": "",
+      "ticket_cost": "",
+      "keywords": [
 
-    ],
-    "tags": [
+      ],
+      "tags": [
 
-    ],
-    "description_text": "Known for her life-sized fantastical portraits of African Am...",
-    "photo_id": 76525,
-    "detail_views": 52,
-    "address": "830 E. Pratt St. Baltimore, MD 21202",
-    "description": "<p class=\"description\">Known for her life-sized fantastical ...",
-    "featured": true,
-    "geo": {
-      "latitude": 39.2873,
-      "longitude": -76.6038,
-      "street": "830 East Pratt Street",
-      "city": "Baltimore",
-      "state": "MD",
-      "country": "US",
-      "zip": "21202"
-    },
-    "filters": {
-      "event_types": [
+      ],
+      "description_text": "Known for her life-sized fantastical portraits of African Am...",
+      "photo_id": 76525,
+      "detail_views": 52,
+      "address": "830 E. Pratt St. Baltimore, MD 21202",
+      "description": "<p class=\"description\">Known for her life-sized fantastical ...",
+      "featured": true,
+      "geo": {
+        "latitude": 39.2873,
+        "longitude": -76.6038,
+        "street": "830 East Pratt Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "country": "US",
+        "zip": "21202"
+      },
+      "filters": {
+        "event_types": [
+          {
+            "name": "Arts & Culture",
+            "id": 20196
+          }
+        ]
+      },
+      "custom_fields": {
+      },
+      "localist_url": "http://events.wtmd.org/event/amy_sherald_paintings",
+      "photo_url": "http://afterclass.uiowa.edu/assets/Uploads/1798919-537607773004320-1447594598-o.jpg",
+      "venue_url": null,
+      "event_instances": [
         {
-          "name": "Arts & Culture",
-          "id": 20196
+          "event_instance": {
+            "id": 452831,
+            "ranking": 0,
+            "event_id": 188155,
+            "start": "2013-09-14T10:00:00-04:00",
+            "end": "2013-09-14T17:00:00-04:00",
+            "all_day": false
+          }
         }
       ]
     },
-    "custom_fields": {
-    },
-    "localist_url": "http://events.wtmd.org/event/amy_sherald_paintings",
-    "photo_url": "http://afterclass.uiowa.edu/assets/Uploads/1798919-537607773004320-1447594598-o.jpg",
-    "venue_url": null,
-    "event_instances": [
-      {
-        "event_instance": {
-          "id": 452831,
-          "ranking": 0,
-          "event_id": 188155,
-          "start": "2013-09-14T10:00:00-04:00",
-          "end": "2013-09-14T17:00:00-04:00",
-          "all_day": false
-        }
-      }
-    ]
-  },
-  "event": {
-    "id": 188160,
-    "title": "Jumprope contest",
-    "url": "http://www.rflewismuseum.org/exhibitions/special",
-    "updated_at": "2013-10-08T09:25:32Z",
-    "created_at": "2013-08-26T06:26:44Z",
-    "facebook_id": null,
-    "first_date": "2013-09-14",
-    "last_date": "2013-12-29",
-    "hashtag": "",
-    "urlname": "amy_sherald_paintings",
-    "user_id": 52182,
-    "directions": "",
-    "allows_reviews": true,
-    "location": "Reginald F. Lewis of Maryland African American History and C...",
-    "room_number": "",
-    "location_name": "Reginald F. Lewis of Maryland African American History and C...",
-    "created_by": null,
-    "updated_by": null,
-    "city_id": 1,
-    "neighborhood_id": 58,
-    "school_id": 55,
-    "campus_id": null,
-    "recurring": true,
-    "free": true,
-    "private": false,
-    "verified": true,
-    "rejected": false,
-    "sponsored": false,
-    "venue_id": null,
-    "ticket_url": "",
-    "ticket_cost": "",
-    "keywords": [
+    "event": {
+      "id": 188161,
+      "title": "Family Fun Times",
+      "url": "http://www.rflewismuseum.org/exhibitions/special",
+      "updated_at": "2013-10-08T09:25:32Z",
+      "created_at": "2013-08-26T06:26:44Z",
+      "facebook_id": null,
+      "first_date": "2013-09-14",
+      "last_date": "2013-12-29",
+      "hashtag": "",
+      "urlname": "amy_sherald_paintings",
+      "user_id": 52182,
+      "directions": "",
+      "allows_reviews": true,
+      "location": "Reginald F. Lewis of Maryland African American History and C...",
+      "room_number": "",
+      "location_name": "Reginald F. Lewis of Maryland African American History and C...",
+      "created_by": null,
+      "updated_by": null,
+      "city_id": 1,
+      "neighborhood_id": 58,
+      "school_id": 55,
+      "campus_id": null,
+      "recurring": true,
+      "free": true,
+      "private": false,
+      "verified": true,
+      "rejected": false,
+      "sponsored": false,
+      "venue_id": null,
+      "ticket_url": "",
+      "ticket_cost": "",
+      "keywords": [
 
-    ],
-    "tags": [
+      ],
+      "tags": [
 
-    ],
-    "description_text": "Known for her life-sized fantastical portraits of African Am...",
-    "photo_id": 76525,
-    "detail_views": 52,
-    "address": "830 E. Pratt St. Baltimore, MD 21202",
-    "description": "<p class=\"description\">Known for her life-sized fantastical ...",
-    "featured": true,
-    "geo": {
-      "latitude": 39.2873,
-      "longitude": -76.6038,
-      "street": "830 East Pratt Street",
-      "city": "Baltimore",
-      "state": "MD",
-      "country": "US",
-      "zip": "21202"
-    },
-    "filters": {
-      "event_types": [
+      ],
+      "description_text": "Known for her life-sized fantastical portraits of African Am...",
+      "photo_id": 76525,
+      "detail_views": 52,
+      "address": "830 E. Pratt St. Baltimore, MD 21202",
+      "description": "<p class=\"description\">Known for her life-sized fantastical ...",
+      "featured": true,
+      "geo": {
+        "latitude": 39.2873,
+        "longitude": -76.6038,
+        "street": "830 East Pratt Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "country": "US",
+        "zip": "21202"
+      },
+      "filters": {
+        "event_types": [
+          {
+            "name": "Arts & Culture",
+            "id": 20196
+          }
+        ]
+      },
+      "custom_fields": {
+      },
+      "localist_url": "http://events.wtmd.org/event/amy_sherald_paintings",
+      "photo_url": "http://afterclass.uiowa.edu/assets/Uploads/1798919-537607773004320-1447594598-o.jpg",
+      "venue_url": null,
+      "event_instances": [
         {
-          "name": "Arts & Culture",
-          "id": 20196
+          "event_instance": {
+            "id": 452831,
+            "ranking": 0,
+            "event_id": 188155,
+            "start": "2013-09-14T10:00:00-04:00",
+            "end": "2013-09-14T17:00:00-04:00",
+            "all_day": false
+          }
         }
       ]
     },
-    "custom_fields": {
-    },
-    "localist_url": "http://events.wtmd.org/event/amy_sherald_paintings",
-    "photo_url": "http://afterclass.uiowa.edu/assets/Uploads/1798919-537607773004320-1447594598-o.jpg",
-    "venue_url": null,
-    "event_instances": [
-      {
-        "event_instance": {
-          "id": 452831,
-          "ranking": 0,
-          "event_id": 188155,
-          "start": "2013-09-14T10:00:00-04:00",
-          "end": "2013-09-14T17:00:00-04:00",
-          "all_day": false
-        }
-      }
-    ]
-  },
-  "event": {
-    "id": 188161,
-    "title": "Family Fun Times",
-    "url": "http://www.rflewismuseum.org/exhibitions/special",
-    "updated_at": "2013-10-08T09:25:32Z",
-    "created_at": "2013-08-26T06:26:44Z",
-    "facebook_id": null,
-    "first_date": "2013-09-14",
-    "last_date": "2013-12-29",
-    "hashtag": "",
-    "urlname": "amy_sherald_paintings",
-    "user_id": 52182,
-    "directions": "",
-    "allows_reviews": true,
-    "location": "Reginald F. Lewis of Maryland African American History and C...",
-    "room_number": "",
-    "location_name": "Reginald F. Lewis of Maryland African American History and C...",
-    "created_by": null,
-    "updated_by": null,
-    "city_id": 1,
-    "neighborhood_id": 58,
-    "school_id": 55,
-    "campus_id": null,
-    "recurring": true,
-    "free": true,
-    "private": false,
-    "verified": true,
-    "rejected": false,
-    "sponsored": false,
-    "venue_id": null,
-    "ticket_url": "",
-    "ticket_cost": "",
-    "keywords": [
+    "event": {
+      "id": 188162,
+      "title": "Rowing Class",
+      "url": "http://www.rflewismuseum.org/exhibitions/special",
+      "updated_at": "2013-10-08T09:25:32Z",
+      "created_at": "2013-08-26T06:26:44Z",
+      "facebook_id": null,
+      "first_date": "2013-09-14",
+      "last_date": "2013-12-29",
+      "hashtag": "",
+      "urlname": "amy_sherald_paintings",
+      "user_id": 52182,
+      "directions": "",
+      "allows_reviews": true,
+      "location": "Reginald F. Lewis of Maryland African American History and C...",
+      "room_number": "",
+      "location_name": "Reginald F. Lewis of Maryland African American History and C...",
+      "created_by": null,
+      "updated_by": null,
+      "city_id": 1,
+      "neighborhood_id": 58,
+      "school_id": 55,
+      "campus_id": null,
+      "recurring": true,
+      "free": true,
+      "private": false,
+      "verified": true,
+      "rejected": false,
+      "sponsored": false,
+      "venue_id": null,
+      "ticket_url": "",
+      "ticket_cost": "",
+      "keywords": [
 
-    ],
-    "tags": [
+      ],
+      "tags": [
 
-    ],
-    "description_text": "Known for her life-sized fantastical portraits of African Am...",
-    "photo_id": 76525,
-    "detail_views": 52,
-    "address": "830 E. Pratt St. Baltimore, MD 21202",
-    "description": "<p class=\"description\">Known for her life-sized fantastical ...",
-    "featured": true,
-    "geo": {
-      "latitude": 39.2873,
-      "longitude": -76.6038,
-      "street": "830 East Pratt Street",
-      "city": "Baltimore",
-      "state": "MD",
-      "country": "US",
-      "zip": "21202"
-    },
-    "filters": {
-      "event_types": [
+      ],
+      "description_text": "Known for her life-sized fantastical portraits of African Am...",
+      "photo_id": 76525,
+      "detail_views": 52,
+      "address": "830 E. Pratt St. Baltimore, MD 21202",
+      "description": "<p class=\"description\">Known for her life-sized fantastical ...",
+      "featured": true,
+      "geo": {
+        "latitude": 39.2873,
+        "longitude": -76.6038,
+        "street": "830 East Pratt Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "country": "US",
+        "zip": "21202"
+      },
+      "filters": {
+        "event_types": [
+          {
+            "name": "Arts & Culture",
+            "id": 20196
+          }
+        ]
+      },
+      "custom_fields": {
+      },
+      "localist_url": "http://events.wtmd.org/event/amy_sherald_paintings",
+      "photo_url": "http://afterclass.uiowa.edu/assets/Uploads/1798919-537607773004320-1447594598-o.jpg",
+      "venue_url": null,
+      "event_instances": [
         {
-          "name": "Arts & Culture",
-          "id": 20196
+          "event_instance": {
+            "id": 452831,
+            "ranking": 0,
+            "event_id": 188155,
+            "start": "2013-09-14T10:00:00-04:00",
+            "end": "2013-09-14T17:00:00-04:00",
+            "all_day": false
+          }
         }
       ]
-    },
-    "custom_fields": {
-    },
-    "localist_url": "http://events.wtmd.org/event/amy_sherald_paintings",
-    "photo_url": "http://afterclass.uiowa.edu/assets/Uploads/1798919-537607773004320-1447594598-o.jpg",
-    "venue_url": null,
-    "event_instances": [
-      {
-        "event_instance": {
-          "id": 452831,
-          "ranking": 0,
-          "event_id": 188155,
-          "start": "2013-09-14T10:00:00-04:00",
-          "end": "2013-09-14T17:00:00-04:00",
-          "all_day": false
-        }
-      }
-    ]
-  },
-  "event": {
-    "id": 188162,
-    "title": "Rowing Class",
-    "url": "http://www.rflewismuseum.org/exhibitions/special",
-    "updated_at": "2013-10-08T09:25:32Z",
-    "created_at": "2013-08-26T06:26:44Z",
-    "facebook_id": null,
-    "first_date": "2013-09-14",
-    "last_date": "2013-12-29",
-    "hashtag": "",
-    "urlname": "amy_sherald_paintings",
-    "user_id": 52182,
-    "directions": "",
-    "allows_reviews": true,
-    "location": "Reginald F. Lewis of Maryland African American History and C...",
-    "room_number": "",
-    "location_name": "Reginald F. Lewis of Maryland African American History and C...",
-    "created_by": null,
-    "updated_by": null,
-    "city_id": 1,
-    "neighborhood_id": 58,
-    "school_id": 55,
-    "campus_id": null,
-    "recurring": true,
-    "free": true,
-    "private": false,
-    "verified": true,
-    "rejected": false,
-    "sponsored": false,
-    "venue_id": null,
-    "ticket_url": "",
-    "ticket_cost": "",
-    "keywords": [
-
-    ],
-    "tags": [
-
-    ],
-    "description_text": "Known for her life-sized fantastical portraits of African Am...",
-    "photo_id": 76525,
-    "detail_views": 52,
-    "address": "830 E. Pratt St. Baltimore, MD 21202",
-    "description": "<p class=\"description\">Known for her life-sized fantastical ...",
-    "featured": true,
-    "geo": {
-      "latitude": 39.2873,
-      "longitude": -76.6038,
-      "street": "830 East Pratt Street",
-      "city": "Baltimore",
-      "state": "MD",
-      "country": "US",
-      "zip": "21202"
-    },
-    "filters": {
-      "event_types": [
-        {
-          "name": "Arts & Culture",
-          "id": 20196
-        }
-      ]
-    },
-    "custom_fields": {
-    },
-    "localist_url": "http://events.wtmd.org/event/amy_sherald_paintings",
-    "photo_url": "http://afterclass.uiowa.edu/assets/Uploads/1798919-537607773004320-1447594598-o.jpg",
-    "venue_url": null,
-    "event_instances": [
-      {
-        "event_instance": {
-          "id": 452831,
-          "ranking": 0,
-          "event_id": 188155,
-          "start": "2013-09-14T10:00:00-04:00",
-          "end": "2013-09-14T17:00:00-04:00",
-          "all_day": false
-        }
-      }
-    ]
+    }
   }
-
+]
 }
+
