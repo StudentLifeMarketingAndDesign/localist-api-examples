@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "event1": {
+      "event": {
         "event_instances": [
           {
             "event_instance": {
@@ -79,8 +79,10 @@
         "localist_url": "http://events.wtmd.org/event/amy_sherald_paintings",
         "photo_url": "http://images-cf.localist.com/photos/76525/huge/195a2ae18388...",
         "venue_url": null
-      },
-      "event2": {
+      }
+    },
+    {
+      "event": {
         "event_instances": [
           {
             "event_instance": {
@@ -158,8 +160,9 @@
         "localist_url": "http://events.wtmd.org/event/amy_sherald_paintings",
         "photo_url": "http://images-cf.localist.com/photos/76525/huge/195a2ae18388...",
         "venue_url": null
-      },
-    "event3": {
+      }
+    },
+    {"event": {
         "event_instances": [
           {
             "event_instance": {
