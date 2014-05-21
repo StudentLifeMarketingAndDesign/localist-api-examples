@@ -8,169 +8,8 @@
               "id": 452848,
               "ranking": 0,
               "event_id": 188155,
-              "start": "2013-10-09T10:00:00-04:00",
-              "end": "2013-10-09T17:00:00-04:00",
-              "all_day": false
-            }
-          }
-        ],
-        "id": 188155,
-        "title": "Amy Sherald: Paintings",
-        "url": "http://www.rflewismuseum.org/exhibitions/special",
-        "updated_at": "2013-10-08T09:25:32Z",
-        "created_at": "2013-08-26T06:26:44Z",
-        "facebook_id": null,
-        "first_date": "2013-09-14",
-        "last_date": "2013-12-29",
-        "hashtag": "",
-        "urlname": "amy_sherald_paintings",
-        "user_id": 52182,
-        "directions": "",
-        "allows_reviews": true,
-        "location": "Reginald F. Lewis of Maryland African American History and C...",
-        "room_number": "",
-        "location_name": "Reginald F. Lewis of Maryland African American History and C...",
-        "created_by": null,
-        "updated_by": null,
-        "city_id": 1,
-        "neighborhood_id": 58,
-        "school_id": 55,
-        "campus_id": null,
-        "recurring": true,
-        "free": true,
-        "private": false,
-        "verified": true,
-        "rejected": false,
-        "sponsored": false,
-        "venue_id": null,
-        "ticket_url": "",
-        "ticket_cost": "",
-        "keywords": [
-
-        ],
-        "tags": [
-
-        ],
-        "description_text": "Known for her life-sized fantastical portraits of African Am...",
-        "photo_id": 76525,
-        "detail_views": 52,
-        "address": "830 E. Pratt St. Baltimore, MD 21202",
-        "description": "<p class=\"description\">Known for her life-sized fantastical ...",
-        "featured": true,
-        "geo": {
-          "latitude": 39.2873,
-          "longitude": -76.6038,
-          "street": "830 East Pratt Street",
-          "city": "Baltimore",
-          "state": "MD",
-          "country": "US",
-          "zip": "21202"
-        },
-        "filters": {
-          "event_types": [
-            {
-              "name": "Arts & Culture",
-              "id": 20196
-            }
-          ]
-        },
-        "custom_fields": {
-        },
-        "localist_url": "http://events.wtmd.org/event/amy_sherald_paintings",
-        "photo_url": "http://images-cf.localist.com/photos/76525/huge/195a2ae18388...",
-        "venue_url": null
-      }
-    },
-    {
-      "event": {
-        "event_instances": [
-          {
-            "event_instance": {
-              "id": 452848,
-              "ranking": 0,
-              "event_id": 188155,
-              "start": "2013-10-09T10:00:00-04:00",
-              "end": "2013-10-09T17:00:00-04:00",
-              "all_day": false
-            }
-          }
-        ],
-        "id": 188155,
-        "title": "Amy Sherald: Paintings",
-        "url": "http://www.rflewismuseum.org/exhibitions/special",
-        "updated_at": "2013-10-08T09:25:32Z",
-        "created_at": "2013-08-26T06:26:44Z",
-        "facebook_id": null,
-        "first_date": "2013-09-14",
-        "last_date": "2013-12-29",
-        "hashtag": "",
-        "urlname": "amy_sherald_paintings",
-        "user_id": 52182,
-        "directions": "",
-        "allows_reviews": true,
-        "location": "Reginald F. Lewis of Maryland African American History and C...",
-        "room_number": "",
-        "location_name": "Reginald F. Lewis of Maryland African American History and C...",
-        "created_by": null,
-        "updated_by": null,
-        "city_id": 1,
-        "neighborhood_id": 58,
-        "school_id": 55,
-        "campus_id": null,
-        "recurring": true,
-        "free": true,
-        "private": false,
-        "verified": true,
-        "rejected": false,
-        "sponsored": false,
-        "venue_id": null,
-        "ticket_url": "",
-        "ticket_cost": "",
-        "keywords": [
-
-        ],
-        "tags": [
-
-        ],
-        "description_text": "Known for her life-sized fantastical portraits of African Am...",
-        "photo_id": 76525,
-        "detail_views": 52,
-        "address": "830 E. Pratt St. Baltimore, MD 21202",
-        "description": "<p class=\"description\">Known for her life-sized fantastical ...",
-        "featured": true,
-        "geo": {
-          "latitude": 39.2873,
-          "longitude": -76.6038,
-          "street": "830 East Pratt Street",
-          "city": "Baltimore",
-          "state": "MD",
-          "country": "US",
-          "zip": "21202"
-        },
-        "filters": {
-          "event_types": [
-            {
-              "name": "Arts & Culture",
-              "id": 20196
-            }
-          ]
-        },
-        "custom_fields": {
-        },
-        "localist_url": "http://events.wtmd.org/event/amy_sherald_paintings",
-        "photo_url": "http://images-cf.localist.com/photos/76525/huge/195a2ae18388...",
-        "venue_url": null
-      }
-    },
-    {"event": {
-        "event_instances": [
-          {
-            "event_instance": {
-              "id": 452848,
-              "ranking": 0,
-              "event_id": 188155,
-              "start": "2014-10-09T10:00:00-04:00",
-              "end": "2014-10-09T17:00:00-04:00",
+              "start": "2014-09-08T10:00:00-04:00",
+              "end": "2014-09-08T17:00:00-04:00",
               "all_day": false
             }
           },
@@ -179,10 +18,20 @@
               "id": 452849,
               "ranking": 0,
               "event_id": 188155,
-              "start": "2014-11-09T10:00:00-04:00",
-              "end": "2014-11-09T17:00:00-04:00",
+              "start": "2014-10-09T10:00:00-04:00",
+              "end": "2014-10-09T17:00:00-04:00",
               "all_day": false
-            }
+            }            
+          },
+          {
+            "event_instance": {
+              "id": 452850,
+              "ranking": 0,
+              "event_id": 188155,
+              "start": "2014-11-11T10:00:00-04:00",
+              "end": "2014-11-11T17:00:00-04:00",
+              "all_day": false
+            }              
           }
         ],
         "id": 188155,
@@ -248,7 +97,208 @@
         "custom_fields": {
         },
         "localist_url": "http://events.wtmd.org/event/amy_sherald_paintings",
-        "photo_url": "http://images-cf.localist.com/photos/76525/huge/195a2ae18388...",
+        "photo_url": "http://afterclass.uiowa.edu/assets/Uploads/_resampled/CroppedImage837523-ea-dm2-nefario.jpg",
+        "venue_url": null
+      }
+    },
+    {
+      "event": {
+        "event_instances": [
+         {
+            "event_instance": {
+              "id": 452848,
+              "ranking": 0,
+              "event_id": 188155,
+              "start": "2014-12-01T10:00:00-04:00",
+              "end": "2014-12-01T17:00:00-04:00",
+              "all_day": false
+            }
+          },
+          {
+            "event_instance": {
+              "id": 452849,
+              "ranking": 0,
+              "event_id": 188155,
+              "start": "2014-12-09T10:00:00-04:00",
+              "end": "2014-12-09T17:00:00-04:00",
+              "all_day": false
+            }            
+          },
+          {
+            "event_instance": {
+              "id": 452850,
+              "ranking": 0,
+              "event_id": 188155,
+              "start": "2014-12-25T10:00:00-04:00",
+              "end": "2014-12-25T17:00:00-04:00",
+              "all_day": false
+            }              
+          }
+        ],
+        "id": 188155,
+        "title": "Amy Sherald: Paintings",
+        "url": "http://www.rflewismuseum.org/exhibitions/special",
+        "updated_at": "2013-10-08T09:25:32Z",
+        "created_at": "2013-08-26T06:26:44Z",
+        "facebook_id": null,
+        "first_date": "2013-09-14",
+        "last_date": "2013-12-29",
+        "hashtag": "",
+        "urlname": "amy_sherald_paintings",
+        "user_id": 52182,
+        "directions": "",
+        "allows_reviews": true,
+        "location": "Reginald F. Lewis of Maryland African American History and C...",
+        "room_number": "",
+        "location_name": "Reginald F. Lewis of Maryland African American History and C...",
+        "created_by": null,
+        "updated_by": null,
+        "city_id": 1,
+        "neighborhood_id": 58,
+        "school_id": 55,
+        "campus_id": null,
+        "recurring": true,
+        "free": true,
+        "private": false,
+        "verified": true,
+        "rejected": false,
+        "sponsored": false,
+        "venue_id": null,
+        "ticket_url": "",
+        "ticket_cost": "",
+        "keywords": [
+
+        ],
+        "tags": [
+
+        ],
+        "description_text": "Known for her life-sized fantastical portraits of African Am...",
+        "photo_id": 76525,
+        "detail_views": 52,
+        "address": "830 E. Pratt St. Baltimore, MD 21202",
+        "description": "<p class=\"description\">Known for her life-sized fantastical ...",
+        "featured": true,
+        "geo": {
+          "latitude": 39.2873,
+          "longitude": -76.6038,
+          "street": "830 East Pratt Street",
+          "city": "Baltimore",
+          "state": "MD",
+          "country": "US",
+          "zip": "21202"
+        },
+        "filters": {
+          "event_types": [
+            {
+              "name": "Arts & Culture",
+              "id": 20196
+            }
+          ]
+        },
+        "custom_fields": {
+        },
+        "localist_url": "http://events.wtmd.org/event/amy_sherald_paintings",
+        "photo_url": "http://afterclass.uiowa.edu/assets/Uploads/_resampled/CroppedImage837523-main.jpg",
+        "venue_url": null
+      }
+    },
+    {"event": {
+        "event_instances": [
+                    {
+            "event_instance": {
+              "id": 452848,
+              "ranking": 0,
+              "event_id": 188155,
+              "start": "2014-08-08T10:00:00-04:00",
+              "end": "2014-08-08T17:00:00-04:00",
+              "all_day": false
+            }
+          },
+          {
+            "event_instance": {
+              "id": 452849,
+              "ranking": 0,
+              "event_id": 188155,
+              "start": "2014-08-09T10:00:00-04:00",
+              "end": "2014-08-09T17:00:00-04:00",
+              "all_day": false
+            }            
+          },
+          {
+            "event_instance": {
+              "id": 452850,
+              "ranking": 0,
+              "event_id": 188155,
+              "start": "2014-08-11T10:00:00-04:00",
+              "end": "2014-08-11T17:00:00-04:00",
+              "all_day": false
+            }              
+          }
+        ],
+        "id": 188155,
+        "title": "Amy Sherald: Paintings",
+        "url": "http://www.rflewismuseum.org/exhibitions/special",
+        "updated_at": "2013-10-08T09:25:32Z",
+        "created_at": "2013-08-26T06:26:44Z",
+        "facebook_id": null,
+        "first_date": "2013-09-14",
+        "last_date": "2013-12-29",
+        "hashtag": "",
+        "urlname": "amy_sherald_paintings",
+        "user_id": 52182,
+        "directions": "",
+        "allows_reviews": true,
+        "location": "Reginald F. Lewis of Maryland African American History and C...",
+        "room_number": "",
+        "location_name": "Reginald F. Lewis of Maryland African American History and C...",
+        "created_by": null,
+        "updated_by": null,
+        "city_id": 1,
+        "neighborhood_id": 58,
+        "school_id": 55,
+        "campus_id": null,
+        "recurring": true,
+        "free": true,
+        "private": false,
+        "verified": true,
+        "rejected": false,
+        "sponsored": false,
+        "venue_id": null,
+        "ticket_url": "",
+        "ticket_cost": "",
+        "keywords": [
+
+        ],
+        "tags": [
+
+        ],
+        "description_text": "Known for her life-sized fantastical portraits of African Am...",
+        "photo_id": 76525,
+        "detail_views": 52,
+        "address": "830 E. Pratt St. Baltimore, MD 21202",
+        "description": "<p class=\"description\">Known for her life-sized fantastical ...",
+        "featured": true,
+        "geo": {
+          "latitude": 39.2873,
+          "longitude": -76.6038,
+          "street": "830 East Pratt Street",
+          "city": "Baltimore",
+          "state": "MD",
+          "country": "US",
+          "zip": "21202"
+        },
+        "filters": {
+          "event_types": [
+            {
+              "name": "Arts & Culture",
+              "id": 20196
+            }
+          ]
+        },
+        "custom_fields": {
+        },
+        "localist_url": "http://events.wtmd.org/event/amy_sherald_paintings",
+        "photo_url": "http://afterclass.uiowa.edu/assets/Uploads/06-DSC4268.jpg",
         "venue_url": null
       }
     }
